@@ -1,0 +1,11 @@
+beautifulsoup4==4.12.3
+protobuf==5.28.2
+python-dotenv==1.0.1
+selenium==4.24.0
+selenium-stealth==1.0.6
+webdriver-manager==4.0.2
+pandas
+nltk
+scikit-learn
+google-cloud-storage
+google-cloud-bigquery
